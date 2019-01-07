@@ -1,0 +1,10 @@
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\bin\Debug\RatesProgram.exe.config
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\bin\Debug\RatesProgram.exe
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\bin\Debug\RatesProgram.pdb
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\obj\Debug\RatesProgram.csprojAssemblyReference.cache
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\obj\Debug\RatesProgram.Application.resources
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\obj\Debug\RatesProgram.Properties.Resources.resources
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\obj\Debug\RatesProgram.csproj.GenerateResource.cache
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\obj\Debug\RatesProgram.csproj.CoreCompileInputs.cache
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\obj\Debug\RatesProgram.exe
+C:\Users\Rene\Documents\uhcs\calleja_chheav\assignment4\RatesProgramv5\RatesProgram\RatesProgram\obj\Debug\RatesProgram.pdb
